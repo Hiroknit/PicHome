@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PicHome
+</name>
+</assembly>
+<members>
+<member name="T:PicHome.My.MyWpfExtension">
+ <summary>
+ WPF のマイ名前空間で使用できるプロパティを定義するためのモジュール
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:PicHome.My.MyWpfExtension.Application">
+ <summary>
+ 実行中のアプリケーション用のアプリケーション オブジェクトを返します
+ </summary>
+</member>
+<member name="P:PicHome.My.MyWpfExtension.Computer">
+ <summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member>
+<member name="P:PicHome.My.MyWpfExtension.User">
+ <summary>
+ 現在のユーザーに関する情報を返します。現在の
+ Windows ユーザー資格情報でアプリケーションを実行する場合は、My.User.InitializeWithWindowsUser() を呼び出してください。
+ </summary>
+</member>
+<member name="P:PicHome.My.MyWpfExtension.Log">
+ <summary>
+ アプリケーション ログを返します。リスナーは、アプリケーションの構成ファイルを使用して構成できます。
+ </summary>
+</member>
+<member name="P:PicHome.My.MyWpfExtension.Windows">
+ <summary>
+ プロジェクトで定義されている Windows の集合を返します。
+ </summary>
+</member>
+<member name="T:PicHome.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PicHome.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PicHome.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:PicHome.FileServerConnector.Connect(System.String)">
+ <summary>
+ 非同期で接続を確立する
+ </summary>
+</member>
+<member name="M:PicHome.FileServerConnector.Disconnect(System.Boolean)">
+ <summary>
+ 非同期で切断する
+ </summary>
+</member>
+<member name="T:PicHome.AutoArrangePhotoFolder.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:PicHome.AutoArrangePhotoFolder.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PicHome.PicHome.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:PicHome.PicHome.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:PicHome.PicHome.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+</members>
+</doc>
