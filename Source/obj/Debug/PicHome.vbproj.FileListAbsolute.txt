@@ -1,6 +1,0 @@
-C:\Develop\!Tools\PicHome\Source\obj\Debug\PicHome.vbproj.AssemblyReference.cache
-C:\Develop\!Tools\PicHome\Source\obj\Debug\MainWindow.g.vb
-C:\Develop\!Tools\PicHome\Source\obj\Debug\Application.g.vb
-C:\Develop\!Tools\PicHome\Source\obj\Debug\PicHome_Content.g.vb
-C:\Develop\!Tools\PicHome\Source\obj\Debug\PicHome_MarkupCompile.cache
-C:\Develop\!Tools\PicHome\Source\obj\Debug\PicHome_MarkupCompile.lref
